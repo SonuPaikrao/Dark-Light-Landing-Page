@@ -2,6 +2,7 @@
 
 # Sonu Paikrao🎭
 
+## Preview - https://sonupaikrao.github.io/Dark-Light-Landing-Page/
 A `HTML, CSS` Project. Made with ♥ by the Sonu Paikrao.This is a landing page. In this project we gonna learn how we can create a website using simple `HTML, CSS & JavaScript`. The main purpose of the project is to get more used to with HTML, CSS & JavaScript. Although we used a few lines of JavaScript in the project for necessary cases. Later on, in this project, we gonna learn how we can deploy this site using `Netlify`. Also, we gonna learn the process from the zero to end and make the website ready for live production.
 
 ## What we are going to learn
